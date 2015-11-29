@@ -1,0 +1,21 @@
+{
+  "name": "Rhinerock Hero",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A light-hearted, bright and bubbly syntax theme featuring bright colors, and inspired by the Fizzy syntax theme.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philister16/atom-themes-rhinerock-hero.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/atom/fizzy/raw/master/LICENSE.md"
+    }
+  ],
+  "engines": {
+    "atom": ">0.39.0"
+  },
+  "folders": []
+}
